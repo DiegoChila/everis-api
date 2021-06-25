@@ -1,1 +1,1 @@
-web: java -jar target/everis-1.0.jar
+web: java -jar -Dserver.port=80 target/everis-1.0.jar
